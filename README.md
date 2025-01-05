@@ -15,4 +15,4 @@ Interestingly, a traditional machine learning approach like SVM
 can perform better than certain types of transformer models. These
 findings highlight the effectiveness of transformer models for bias
 detection while also showing the potential of traditional machine
-learning methods when combined with proper pre-processing
+learning methods when combined with proper pre-processing.
